@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// 코딩은 체육과목 입니다
 int main() {
    int a;
    cin >> a;
