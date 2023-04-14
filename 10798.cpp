@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//세로읽기
 int main() {
     char words[5][16] ={};  
    
